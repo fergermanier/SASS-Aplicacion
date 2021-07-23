@@ -1,0 +1,53 @@
+header {
+  background-color: #07a78c;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+ul a {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+  text-decoration: none;
+  color: white;
+}
+ul a:hover {
+  background-color: gray;
+}
+
+footer h5 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 14px;
+  background-color: #794aa5;
+  text-align: center;
+}
+footer a {
+  font-size: 12px;
+  color: #0c0c0c;
+  background-color: #794aa5;
+  text-align: center;
+}
+
+.grid-container {
+  background-color: #b3f3ea;
+}
+.grid-container h1 {
+  font-size: 24px;
+  text-align: center;
+}
+.grid-container p {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.bg-condicion {
+  background-color: violet;
+  border: 1px solid black;
+}
+
+/*# sourceMappingURL=estilos.css.map */

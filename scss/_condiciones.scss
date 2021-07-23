@@ -1,0 +1,13 @@
+@mixin condicion ($colores) {
+    background-color: $colores;
+
+    @if $colores == violet {
+        border: 1px solid black
+    } @else {
+        border: 2px solid white;
+    }
+}
+
+.bg-condicion {
+    @include condicion(violet)
+}
